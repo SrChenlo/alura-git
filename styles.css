@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    height: 920px;
+    vertical-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    padding-right: 5px;
+    color: purple;
+}
