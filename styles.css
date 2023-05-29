@@ -8,5 +8,9 @@ body {
 
 h1 {
     padding-right: 5px;
+}
+
+p {
+    display: inline;
     color: purple;
 }
