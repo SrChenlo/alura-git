@@ -1,4 +1,5 @@
 body {
+    background-color: rgb(69, 99, 220);
     display: flex;
     height: 920px;
     vertical-align: center;
@@ -8,6 +9,7 @@ body {
 
 h1 {
     padding-right: 5px;
+    color:rgb(255, 255, 0);
 }
 
 p {
